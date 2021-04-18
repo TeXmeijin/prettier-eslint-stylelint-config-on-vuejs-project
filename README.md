@@ -1,6 +1,6 @@
 # About
 
-This repository shows a sample of Vue.js project configuration for Prettier, ESLint, StyleLint.
+This repository shows a sample of Vue.js project configuration using Prettier, ESLint, StyleLint.
 
 ```
   "lint-staged": {
@@ -30,7 +30,7 @@ Then, this repository is needed.
 
 # Solution
 
-The configuration is serial execution following commands : prettier, stylelint, eslint.
+The configuration execute serially formatting and linting commands(prettier, stylelint, eslint) by file types.
 
 # How to execution lint-staged
 
